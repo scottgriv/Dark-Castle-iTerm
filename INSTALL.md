@@ -19,4 +19,6 @@ Download using the [GitHub .zip download](https://github.com/scottgriv/Dark-Cast
 3. Select _Import..._ from the list;
 4. Select the `Dark Castle.itermcolors` file;
 5. Select the _Dark Castle_ from _Color Presets..._.
-6. Enjoy!
+6. Ensure _Brighten bold text_ and _Underline color_ is `checked`.
+7. Set the _Faint Text Opacity_ to `50` and the _Minimum Contrast_ to `40` for optimal results.
+8. Enjoy!
